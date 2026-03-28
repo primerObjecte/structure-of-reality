@@ -1,3 +1,4 @@
+**Zenodo:** [10.5281/zenodo.19298465](https://doi.org/10.5281/zenodo.19298465)
 # Structure of Reality: From Gap to Object
 
 **Author:** Primer  
